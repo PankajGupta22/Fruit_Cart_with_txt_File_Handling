@@ -1,0 +1,11 @@
+****** Thank you for Shopping with us *******
+ItemName Quantity(KG)   Amount
+apple     2
+--------------------------------
+orange     3
+--------------------------------
+orange     41
+--------------------------------
+orange     4
+--------------------------------
+Total Amount to be paid == 148$ 
